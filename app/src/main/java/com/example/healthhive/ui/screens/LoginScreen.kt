@@ -232,7 +232,7 @@ fun LoginScreen(onLoginSuccess: () -> Unit, onSignUp: () -> Unit) {
                 Text("New to HealthHive? Sign Up", fontSize = 14.sp, color = Color.White,)
             }
 
-            Spacer(modifier = Modifier.height(12.dp))
+            Spacer(modifier = Modifier.height(15.dp))
 
             Divider(
                 modifier = Modifier
